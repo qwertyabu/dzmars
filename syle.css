@@ -1,0 +1,153 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+header{
+    padding: 20px;
+}
+.head_nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    gap:80px;
+}
+.wen{
+    display: flex;
+    justify-content: start;
+    gap: 20px;
+    flex-direction: row;
+    align-items: center;
+}
+.z2{
+    color: black;
+    font-family: "Mulish", sans-serif;
+}
+.textabu{
+    color: black;
+    font-family: "Mulish", sans-serif;
+}
+.abu{
+    background-color: rgb(40, 40, 238);
+    border-radius: 100%;
+}
+.text1{
+    color:#E7E7E7;
+    font-family: "Mulish", sans-serif;
+}
+.boxqwerty{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.box_one{
+    width: 350px;
+    height: 300px;
+    background-color:#E7E7E7;
+    color: black;
+}
+
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.box_oneumid{
+    width: 350px;
+    height: 300px;
+    background-color:#E7E7E7;
+    background-color: #5A98F2;
+    color: white;
+}
+
+
+
+.front{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+    padding: 35px;
+}
+.text2{
+    font-family: "Mulish", sans-serif;
+    color:#E7E7E7 ;
+    text-align: center;
+    padding: 20px;
+}
+.box2 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    margin-bottom: 60px;
+}
+.box_two{
+    width: 350px;
+    height: 300px;
+    background-color:#E7E7E7;
+    color: black;
+}
+.box_two2{
+    width: 350px;
+    height: 300px;
+    background-color:#E7E7E7;
+    background-color: #5A98F2;
+    color: white;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+}
+.btn button{
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    border: 2px solid #458FF6;
+    background-color: transparent;
+    color: #458FF6;
+}
+.but button{
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    border: 2px solid #458FF6;
+    background-color: transparent;
+    color: #458FF6;
+    left: 150px;
+}
+.box_oneumid{
+    border:  solid 5px;
+    border-radius: 30px;
+}
+.box_one{
+    border: #E7E7E7 solid 5px;
+    border-radius: 30px;
+}
+.c{
+    border: #E7E7E7 solid 5px;
+    border-radius: 30px; 
+}
+
+.box_two{
+    border: #E7E7E7 solid 5px;
+    border-radius: 30px;
+}
+.c{
+    border: #E7E7E7 solid 5px;
+    border-radius: 30px; 
+}
+
+.a{
+    border: #5A98F2 solid 5px;
+    border-radius: 30px; 
+}
